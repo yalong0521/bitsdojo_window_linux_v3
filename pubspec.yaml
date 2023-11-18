@@ -12,7 +12,8 @@ dependencies:
   flutter:
     sdk: flutter
   bitsdojo_window_platform_interface_v3:
-    path: ../bitsdojo_window_platform_interface_v3
+    git:
+      url: https://github.com/yalong0521/bitsdojo_window_platform_interface_v3.git
   ffi: ^2.0.0
 
 dev_dependencies:
